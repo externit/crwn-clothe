@@ -41,9 +41,9 @@ const MapDispatchToProps = (dispatch) => ({
 
 });
 
-const MapStateToProps = (state) => ({
-  currentUser: state.user.currentUser,
-  isVisible: state.cart.isVisible,
+const MapStateToProps = ({user : {currentUser} , cart : {isVisible}}) => ({
+  currentUser,
+  isVisible
 });
 
 export default connect(MapStateToProps, MapDispatchToProps)(Header);
