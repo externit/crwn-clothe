@@ -11,6 +11,7 @@ import Header from './components/header/header.component';
 import { auth, createUserProfileDocument } from './firebase/firebase.utils';
 
 import { setCurrentUser } from './redux/user/user.actions';
+import CheckoutPage from './pages/checkout/checkout.component';
 
 class App extends React.Component {
   unsubscribeFromAuth = null;
@@ -57,6 +58,7 @@ class App extends React.Component {
               )
             }
           />
+          <Route exact path='/checkout' component={CheckoutPage}/>
         </Switch>
       </div>
     );
