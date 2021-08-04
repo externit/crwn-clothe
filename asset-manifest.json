@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/crwn-clothe/static/css/main.f95d6b8c.chunk.css",
+    "main.js": "/crwn-clothe/static/js/main.5159820a.chunk.js",
+    "main.js.map": "/crwn-clothe/static/js/main.5159820a.chunk.js.map",
+    "runtime~main.js": "/crwn-clothe/static/js/runtime~main.b6860bc4.js",
+    "runtime~main.js.map": "/crwn-clothe/static/js/runtime~main.b6860bc4.js.map",
+    "static/js/2.a0d28c5a.chunk.js": "/crwn-clothe/static/js/2.a0d28c5a.chunk.js",
+    "static/js/2.a0d28c5a.chunk.js.map": "/crwn-clothe/static/js/2.a0d28c5a.chunk.js.map",
+    "index.html": "/crwn-clothe/index.html",
+    "precache-manifest.4fc0c96e385961c62a6cf40022558a85.js": "/crwn-clothe/precache-manifest.4fc0c96e385961c62a6cf40022558a85.js",
+    "service-worker.js": "/crwn-clothe/service-worker.js",
+    "static/css/main.f95d6b8c.chunk.css.map": "/crwn-clothe/static/css/main.f95d6b8c.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/crwn-clothe/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/crwn-clothe/static/media/shopping-bag.30f07071.svg"
+  }
+}
